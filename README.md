@@ -1,2 +1,2 @@
 # PrepCourse-Henry-FullStackDeveloper
-Modulo2 Repositorio. 
+Modulo 2 - Repositorio. 
